@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: journal_Sub.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: KG_References.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Name 1 in "ElSherief, M., ElBatt, T., Zahran, A., and Helmy, A." has a comma at the end for entry maiSC15
+while executing---line 2419 of file IEEEtran.bst
+Too many commas in name 1 of "ElSherief, M., ElBatt, T., Zahran, A., and Helmy, A." for entry maiSC15
+while executing---line 2419 of file IEEEtran.bst
+Too many commas in name 1 of "ElSherief, M., ElBatt, T., Zahran, A., and Helmy, A." for entry maiSC15
+while executing---line 2419 of file IEEEtran.bst
+Too many commas in name 1 of "ElSherief, M., ElBatt, T., Zahran, A., and Helmy, A." for entry maiSC15
+while executing---line 2419 of file IEEEtran.bst
+
+Done.
+You've used 40 entries,
+            4039 wiz_defined-function locations,
+            1035 strings with 13749 characters,
+and the built_in function-call counts, 27953 in all, are:
+= -- 2240
+> -- 598
+< -- 224
++ -- 329
+- -- 99
+* -- 1289
+:= -- 4192
+add.period$ -- 82
+call.type$ -- 40
+change.case$ -- 41
+chr.to.int$ -- 519
+cite$ -- 40
+duplicate$ -- 2073
+empty$ -- 2432
+format.name$ -- 127
+if$ -- 6476
+int.to.chr$ -- 0
+int.to.str$ -- 40
+missing$ -- 356
+newline$ -- 143
+num.names$ -- 39
+pop$ -- 832
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2222
+stack$ -- 0
+substring$ -- 1258
+swap$ -- 1602
+text.length$ -- 51
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 40
+warning$ -- 0
+while$ -- 129
+width$ -- 42
+write$ -- 390
+(There were 4 error messages)

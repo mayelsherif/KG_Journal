@@ -1,0 +1,463 @@
+@inproceedings{mai2013btw,
+  title={O'BTW: an opportunistic, similarity-based mobile recommendation system},
+  author={ElSherief, Mai and ElBatt, Tamer and Zahran, Ahmed and Helmy, Ahmed},
+  booktitle={Proceeding of the 11th annual international conference on Mobile systems, applications, and services},
+  pages={511--512},
+  year={2013},
+  organization={ACM}
+}
+@inproceedings{maiSC15,
+  title={An Information-theoretic Model for Knowledge Sharing in Opportunistic Social Networks},
+  author={ElSherief, M., ElBatt, T., Zahran, A., and Helmy, A.},
+  booktitle={The 8th IEEE International Conference on Social Computing and Networking (SocialCom 2015)},
+  pages={},
+  year={2015},
+  organization={}
+}
+@inproceedings{linInformation98,
+  title={An information-theoretic definition of similarity.},
+  author={Lin, Dekang},
+  booktitle={ICML},
+  volume={98},
+  pages={296--304},
+  year={1998}
+}
+@inproceedings{dsc,
+  title={Distributed source coding: symmetric rates and applications to sensor networks},
+  author={Pradhan, S.S. and Ramachandran, K.},
+  booktitle={IEEE Data Compression Conference},
+  pages={},
+  year={2000},
+  organization={}
+}
+\vspace{-0.4 cm}
+@inproceedings{ipsn03,
+  title={On the manyto-one transport capacity of a dense wireless sensor network and the compressibility of its data},
+  author={Marco, D. and Duarte-Melo, E. and Liu, M. and Neuhoff, D.},
+  booktitle={IEEE/ACM IPSN},
+  pages={},
+  year={2003},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{tosn,
+  title={The impact of spatial correlation on routing with compression in wireless sensor networks},
+  author={Pattem, S. and Krishnamachari, B. and Govindan, R.},
+  journal={ACM Transactions on Sensor Networks (TOSN)},
+  volume={4},
+  number={4},
+  pages={},
+  year={2008},
+  publisher={ACM}
+}
+\vspace{-0.4 cm}
+@article{elbatt09,
+  title={On the trade-offs of cooperative data compression in wireless sensor networks with spatial correlations},
+  author={ElBatt, T.},
+  journal={IEEE Transactions on Wireless Communications)},
+  volume={8},
+  number={5},
+  pages={},
+  year={2009},
+  publisher={IEEE}
+}
+\vspace{-0.4 cm}
+@misc{itu14,
+  title = {{ITU releases 2014 ICT figures}},
+  author={ITU},
+  howpublished = {\url{http://www.itu.int/net/pressoffice/press\_releases/2014/23.aspx/}},
+  note = {Accessed: 02/19/2015}
+}
+@article{Eagle,
+  title={Inferring friendship network structure by using mobile phone data},
+  author={Eagle, Nathan and Pentland, Alex and Lazer, David},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  volume={106},
+  number={36},
+  pages={},
+  year={2009},
+  publisher={NAS}
+}
+\vspace{-0.4 cm}
+@inproceedings{loc1,
+  title={A user similarity calculation based on the location for social network services},
+  author={Lee, Min-Joong and Chung, Chin-Wan},
+  booktitle={Database Systems for Advanced Applications},
+  pages={38--52},
+  year={2011},
+  organization={Springer}
+}
+\vspace{-0.4 cm}
+@inproceedings{dm1,
+  title={Efficient and Effective Clustering Methods for Spatial Data Mining},
+  author={Ng, Raymond T and Han, Jiawei},
+  booktitle={Proc. of the 20th International Conference on Very Large Data Bases},
+  pages={144--155},
+  year={1994}
+}
+\vspace{-0.4 cm}
+@incollection{dm2,
+  title={A survey of clustering data mining techniques},
+  author={Berkhin, Pavel},
+  booktitle={Grouping multidimensional data},
+  pages={25--71},
+  year={2006},
+  publisher={Springer}
+}
+\vspace{-0.4 cm}
+@inproceedings{loc2,
+  title={Similarity analysis and modeling in mobile societies: the missing link},
+  author={Thakur, Gautam S and Helmy, Ahmed and Hsu, Wei-Jen},
+  booktitle={Proceedings of the 5th ACM workshop on Challenged networks},
+  pages={13--20},
+  year={2010},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{graph1,
+  title={Centrality in social networks conceptual clarification},
+  author={Freeman, Linton C},
+  journal={Social networks},
+  volume={1},
+  number={3},
+  pages={215--239},
+  year={1979},
+  publisher={Elsevier}
+}
+\vspace{-0.4 cm}
+@article{graph2,
+  title={Random graph models of social networks},
+  author={Newman, Mark EJ and Watts, Duncan J and Strogatz, Steven H},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  volume={99},
+  number={Suppl 1},
+  pages={2566--2572},
+  year={2002},
+  publisher={National Acad Sciences}
+}
+\vspace{-0.4 cm}
+@article{graph3,
+  title={Graph theory and social networks: A technical comment on connectedness and connectivity},
+  author={Barnes, John A},
+  journal={Sociology},
+  volume={3},
+  number={2},
+  pages={215--232},
+  year={1969},
+  publisher={Sage Publications}
+}
+\vspace{-0.4 cm}
+@article{erdos,
+  title={On the evolution of random graphs},
+  author={Erdos, P. and Renyi, A.},
+  journal={Publications of the Mathematical Institute of the Hungarian Academy of Sciences},
+  volume={5},
+  number={},
+  pages={17--61},
+  year={1960},
+  publisher={}
+}
+\vspace{-0.4 cm}
+@inproceedings{mogh,
+  title={Data-driven co-clustering model of internet usage in large mobile societies},
+  author={Moghaddam, Saeed and Helmy, Ahmed and Ranka, Sanjay and Somaiya, Manas},
+  booktitle={Proceedings of the 13th ACM international conference on Modeling, analysis, and simulation of wireless and mobile systems},
+  pages={248--256},
+  year={2010},
+  organization={}
+}
+\vspace{-0.4 cm}
+@MISC{infocom,
+  title = {{CRAWDAD trace set cambridge/haggle/imote (v. 2009-05-29)}}, 
+  howpublished = {Downloaded from {\url{http://crawdad.cs.dartmouth.edu/cambridge/haggle/imote}}},
+  author = {}
+}
+\vspace{-0.4 cm}
+@misc{wbr,
+  title = {Information and Communications for Development 2012: Maximizing Mobile},
+  author={},
+  howpublished = {A  World Bank Report},
+  year = {July, 2012}
+}
+\vspace{-0.4 cm}
+@misc{ksh,
+  title = {Key Statistical Highlights},
+  author={},
+  howpublished = {ITU Data Release},
+  note = {June, 2012}
+  }
+\vspace{-0.4 cm}
+@article{Isoc,
+  title={Social-mobile applications},
+  author={Smith, Ian},
+  journal={Computer},
+  volume={38},
+  number={4},
+  pages={84--85},
+  year={2005},
+  publisher={IEEE}
+}
+\vspace{-0.4 cm}
+@inproceedings{ga,
+  title={A general architecture of mobile social network services},
+  author={Chang, Yao-Jen and Liu, Hung-Huan and Chou, Li-Der and Chen, Yen-Wen and Shin, Haw-Yun},
+  booktitle={Convergence Information Technology, 2007. IEEE International Conference on},
+  pages={},
+  year={2007},
+  organization={}
+}
+\vspace{-0.4 cm}
+@inproceedings{soc1,
+  title={Modeling relationship strength in online social networks},
+  author={Xiang, R. and Neville, J. and Rogati, M.},
+  booktitle={Proceedings of the 19th ACM International Conference on World wide web},
+  pages={981--990},
+  year={2010},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{sm,
+  title={Comprehensive survey on distance/similarity measures between probability density functions},
+  author={Cha, S.H.},
+  journal={City},
+  volume={1},
+  number={2},
+  pages={1},
+  year={2007},
+  publisher={Citeseer}
+}
+\vspace{-0.4 cm}
+@inproceedings{soc2,
+  title={On social networks and collaborative recommendation},
+  author={Konstas, Ioannis and Stathopoulos, Vassilios and Jose, Joemon M},
+  booktitle={Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval},
+  pages={195--202},
+  year={2009},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{svd,
+  title={The fundamental theorem of linear algebra},
+  author={Strang, G.},
+  journal={American Mathematical Monthly},
+  pages={848--855},
+  year={1993},
+  publisher={JSTOR}
+}
+\vspace{-0.4 cm}
+@misc{uspatent,
+  title={Mobile User Profile Creation based on User Browse Behaviors},
+  author={Ramer, J. and Soroca, A. and Doughty, D.},
+  year={2007},
+  month=oct # "~30",
+  publisher={Google Patents},
+  note={{US} Patent App. 11/929,129}
+}
+\vspace{-0.4 cm}
+@article{cf,
+  title={A framework for collaborative, content-based and demographic filtering},
+  author={Pazzani, M.J.},
+  journal={Artificial Intelligence Review},
+  volume={13},
+  number={5},
+  pages={393--408},
+  year={1999},
+  publisher={Springer}
+}
+\vspace{-0.4 cm}
+@inproceedings{p2p,
+  title={Peer-to-peer based recommendations for mobile commerce},
+  author={Tveit, A.},
+  booktitle={Proceedings of the 1st ACM International Workshop on Mobile commerce},
+  pages={26--29},
+  year={2001},
+  organization={}
+}
+\vspace{-0.4 cm}
+@misc{lbd,
+  title = {Location-based Dating to the iPhone},
+  author={Skout Brings},
+  howpublished = {\url{http://venturebeat.com/2009/01/21/skout-brings-location-based-dating-to-the-iphone/}},
+  note = {Accessed: 01/04/2012}
+}
+\vspace{-0.4 cm}
+@inproceedings{ms,
+  title={Measuring serendipity: connecting people, locations and interests in a mobile 3G network},
+  author={Trestian, I. and Ranjan, S. and Kuzmanovic, A. and Nucci, A.},
+  booktitle={Proceedings of the 9th ACM SIGCOMM Internet measurement conference},
+  pages={267--279},
+  year={2009},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{stp,
+  title={Spatio-temporal proximity as a basis for collaborative filtering in mobile environments},
+  author={De Spindler, A. and Norrie, M.C. and Grossniklaus, M. and Signer, B.},
+  journal={Proceedings of UMICS},
+  pages={912--926},
+  year={2006},
+  publisher={Citeseer}
+}
+\vspace{-0.4 cm}
+@article{learning,
+  title={Learning user interest dynamics with a three-descriptor representation},
+  author={Widyantoro, D.H. and Ioerger, T.R. and Yen, J.},
+  journal={Journal of the American Society for Information Science and Technology},
+  volume={52},
+  number={3},
+  pages={212--225},
+  year={2001},
+  publisher={Wiley Online Library}
+}
+\vspace{-0.4 cm}
+@misc{odp,
+  title = {Open Directory Project},
+  howpublished = {\url{http://www.dmoz.org/}},
+  note = {Accessed: 10/04/2012}
+}
+\vspace{-0.4 cm}
+@inproceedings{protect,
+  title={PROTECT: proximity-based trust-advisor using encounters for mobile societies},
+  author={Kumar, U. and Thakur, G. and Helmy, A.},
+  booktitle={Proceedings of the 6th ACM International Wireless Communications and Mobile Computing Conference},
+  pages={636--645},
+  year={2010},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{corr,
+  title={Analyzing correlation between trust and user similarity in online communities},
+  author={Ziegler, C.N. and Lausen, G.},
+  journal={Trust Management},
+  pages={251--265},
+  year={2004},
+  publisher={Springer}
+}
+\vspace{-0.4 cm}
+@inproceedings{mswim,
+  title={Data-driven co-clustering model of internet usage in large mobile societies},
+  author={Moghaddam, S. and Helmy, A. and Ranka, S. and Somaiya, M.},
+  booktitle={Proceedings of the 13th ACM international conference on Modeling, analysis, and simulation of wireless and mobile systems},
+  pages={248--256},
+  year={2010},
+  organization={}
+}
+\vspace{-0.4 cm}
+@article{csi,
+  title={{CSI}: A paradigm for behavior-oriented profile-cast services in mobile networks},
+  author={Hsu, W. and Dutta, D. and Helmy, A.},
+  journal={Ad Hoc Networks},
+  year={2012},
+   volume={10},
+   issue={8},
+   pages={1586-1602},
+  publisher={Elsevier}
+}
+\vspace{-0.4 cm}
+@inproceedings{profilecast,
+  title={Profile-cast: Behavior-aware mobile networking},
+  author={Hsu, W. and Dutta, D. and Helmy, A.},
+  booktitle={Wireless Communications and Networking Conference, 2008. WCNC 2008. IEEE},
+  pages={3033--3038},
+  year={2008},
+  organization={}
+}
+\vspace{-0.4 cm}
+@inproceedings{Mai13,
+  title={The Quest for User Similarity in Mobile Societies},
+  author={ElSherief, M. and ElBatt, T. and Zahran, A. and Helmy, A.},
+  booktitle={The 2nd International Worskhop on Social and Community Intelligence, in conjunction with IEEE Percom.},
+  pages={},
+  year={2014},
+  organization={}
+}
+\vspace{-0.4 cm}
+@book{cover,
+  title={Elements of Information Theory, 2nd Edition},
+  author={Thomas, J. and Cover, T.},
+  booktitle={},
+  pages={},
+  year={2006},
+  publisher={John Wiley \& Sons, Inc.}
+}
+\vspace{-0.4 cm}
+@article{hsu,
+  title={On Nodal Encounter Patterns in Wireless LAN Traces},
+  author={Hsu, Wei-jen and Helmy, Ahmed},
+  journal={IEEE Transactions on Mobile Computing},
+   volume={9},
+   number={11},
+   pages={1563--1577},
+   year={2010},
+  publisher={IEEE}
+}
+\vspace{-0.4 cm}
+@article{diot,
+  title={Impact of human mobility on opportunistic forwarding algorithms},
+  author={Chaintreau, Augustin and Hui, Pan and Crowcroft, Jon and Diot, Christophe and Gass, Richard and Scott, James},
+  journal={IEEE Transactions on Mobile Computing},
+   volume={6},
+   number={6},
+   pages={606--620},
+   year={2007},
+  publisher={IEEE}
+}
+\vspace{-0.4 cm}
+@article{sim,
+  title={Pictures of Relevance: A Geometric Analysis of Similarity Measures},
+  author={Jones, W.P. and Furnas, G.W.},
+  journal={Journal of the American Society for Information Science},
+  year={1987},
+   volume={36},
+   issue={6},
+   pages={420-442},
+  publisher={}
+}
+\vspace{-0.4 cm}
+@inproceedings{mobihoc,
+  title={Dissemination in opportunistic social networks: the role of temporal communities},
+  author={Pietilänen, Anna-Kaisa and Diot, Christophe},
+  booktitle={ACM Mobihoc},
+  pages={},
+  year={2012}
+}
+\vspace{-0.4 cm}
+@inproceedings{trust,
+  title={Social Trust in Opportunistic Networks},
+  author={Trifunovic, S. and  Legendre, F. and Anastasiades, C.},
+  booktitle={IEEE INFOCOM Worshop.},
+  pages={1-6},
+  year={2010},
+  organization={}
+}
+
+\vspace{-0.4 cm}
+@article{data,
+  title={LiveLab: measuring wireless networks and smartphone users in the field },
+  author={Shepard, Clayton and Rahmati, Ahmad and Tossell, Chad and Zhong, Lin and Kortum, Phillip},
+  journal={ACM SIGMETRICS Performance Evaluation Review},
+  volume={38},
+  number={3},
+  pages={},
+  year={2011},
+  publisher={ACM}
+}
+\vspace{-0.4 cm}
+@article{tse,
+  title={Mobility Increases the Capacity of Ad Hoc Wireless Networks},
+  author={Grossglauser, M. and Tse, D.},
+  journal={IEEE/ACM Transactions on Networking},
+   volume={10},
+   number={4},
+   pages={477--486},
+   year={2002},
+  publisher={IEEE/ACM}
+}
+\vspace{-0.4 cm}
+@inproceedings{elgamal,
+  title={Throughput-Delay Trade-off in Wireless Networks},
+  author={El Gamal, Abbas and Mammen, James and Prabhakar, Balaji and Shah, Devavrat},
+  booktitle={IEEE INFOCOM'04},
+  pages={},
+  year={2004}
+}
